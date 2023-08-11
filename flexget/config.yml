@@ -22,6 +22,7 @@ templates:
       - SEAL Team
       - Silicon Valley
       - Suits
+      - Swat
 
     transmission:
       host: transmission
